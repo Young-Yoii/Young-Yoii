@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&height=400&text=Hello,%20Gayoung%20World&fontColor=ffffff&fontAlign=70&stroke=a10663&strokeWidth=2)
-
+![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=27&height=200&section=header&text=Gayoung%20Jo&fontColor=ffffff&fontSize=40&fontAlign=60&fontAlignY=35&desc=Hello,World🐱%20I'm&ddescSize=20&descAlign=37&descAlignY=35)
 
 
 
@@ -13,8 +12,7 @@
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-React-05122A?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
 <br>
-  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=PHP&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Androidstudio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=PHP&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat-square&logo=amazon&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Figma-05122A?style=flat-square&logo=amazon&logoColor=black"/></a>&nbsp 
