@@ -11,9 +11,9 @@
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-React-05122A?style=flat-square&logo=ReactL&logoColor=white"/></a>&nbsp 
-<br>Cancel changes
+<br>
   <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat-square&logo=adobe-illustrator&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat-square&logo=adobe-photoshop&logoColor=black"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Figma-05122A?style=flat-square&logo=Figma&logoColor=black"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat-square&logo=adobe-photoshop&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Figma-05122A?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp 
 </p>
