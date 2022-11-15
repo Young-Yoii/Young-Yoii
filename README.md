@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/-React-05122A?style=flat-square&logo=ReactL&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
 <br>
   <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat-square&logo=adobe-illustrator&logoColor=white"/></a>&nbsp  
